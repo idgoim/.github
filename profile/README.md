@@ -7,3 +7,5 @@ The IDGO Project aims to stimulate local economies and enhance tourism through b
 Local businesses within these DAOs will be able to issue digital passports and gift cards to customers and tourists, backed by staked ARB tokens. This encourages local spending and fosters a sense of community engagement and loyalty, thus benefiting the entire community.
 
 The project leverages the speed, scalability, and affordability of the Arbitrum Layer 2 solution.
+
+![IDGO-logo_700x293](https://github.com/idgoim/.github/assets/14127551/7432b8e1-9824-413c-bbf2-fb445cbb171c)

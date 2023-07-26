@@ -8,4 +8,4 @@ Local businesses within these DAOs will be able to issue digital passports and g
 
 The project leverages the speed, scalability, and affordability of the Arbitrum Layer 2 solution.
 
-![IDGO-logo_700x293](https://github.com/idgoim/.github/assets/14127551/7432b8e1-9824-413c-bbf2-fb445cbb171c)
+![IDGO-logo_white](https://github.com/idgoim/.github/assets/14127551/699902e0-ee1e-4515-b282-7d3a4d4419e0)
